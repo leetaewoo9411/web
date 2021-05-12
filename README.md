@@ -1,14 +1,11 @@
-
-<!DOCTYPE html>
 <html>
     <head>
-       <tltle>Sciencetimes - Taewoo </tltle>
+        <h1> <tltle>Sciencetimes - Taewoo </tltle> </h1>
         
             <meta charset="utf-8">
-            <div class="warning">
                 <p> 내가 적고싶은 이야기 </p>
             </div>
-            <h1>프로그래밍이란?</h1>
+            <h2>프로그래밍이란?</h2>
 
             <ol>
                 <li>개발은 2가지 방향으로</li>
