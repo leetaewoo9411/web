@@ -2,11 +2,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-       <tltle>Sciencetimes - 일기</tltle>
-        <style type="text/css">
-            @import url("/wp-content/themes/sciencetimes/css/owl.carousel.css");
-                @import url("/wp-content/themes/sciencetimes/css/custom.css");
-                    @import url("/wp-content/themes/sciencetimes/css/custom-media-queries.css");</style>
+       <tltle>Sciencetimes - Taewoo </tltle>
+        
             <meta charset="utf-8">
             <div class="warning">
                 <p> 내가 적고싶은 이야기 </p>
