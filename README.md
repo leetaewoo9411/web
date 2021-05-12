@@ -9,7 +9,6 @@
                     @import url("/wp-content/themes/sciencetimes/css/custom-media-queries.css");</style>
             <meta charset="utf-8">
             <div class="warning">
-                <img src="xo112.jpg"width="10%">
                 <p> 내가 적고싶은 이야기 </p>
             </div>
             <h1>프로그래밍이란?</h1>
